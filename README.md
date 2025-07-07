@@ -16,5 +16,7 @@ In this project, the user specifies an encryption algorithm and a key to encrypt
 </pre>
 
 ## 🔒🗝️ TEAM
-- [Cengizhan TÜMER](https://www.linkedin.com/in/cengizhan-t%C3%BCmer-59aa592a4/)
-- [Bahriye İŞGÖR](https://github.com/Bhryee)
+|                       | Name                  | Socials |
+|-----------------------|-----------------------|---------|
+| <img src="https://avatars.githubusercontent.com/u/154070482?v=4" width="100"/> | Cengizhan TÜMER              | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/cengizhan-t%C3%BCmer-59aa592a4/) |
+| <img src="https://media.licdn.com/dms/image/v2/D4D03AQHpvfo873aALw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728412640527?e=1757548800&v=beta&t=wSiqAF2mAXGfdYQmx0Zp2MZcnkPUD6qamEhQW2vOOxY" width="100"/>    | Bahriye İŞGÖR          | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/bahriye-isgor/) |
